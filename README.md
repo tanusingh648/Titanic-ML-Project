@@ -68,9 +68,9 @@ The models were evaluated using:
 
 | Model               |                  Accuracy |
 | ------------------- | ------------------------: |
-| Logistic Regression | *Update with your result* |
-| Decision Tree       | *Update with your result* |
-| Random Forest       | *Update with your result* |
+| Logistic Regression | 0.8100558659217877 |
+| Decision Tree       |  0.7821229050279329|
+| Random Forest       | 0.8212290502793296 |
 
 ---
 
